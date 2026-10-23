@@ -1,0 +1,1 @@
+echo "gh api -X DELETE repos/cathal-labs/lab6/collaborators/CathalM462"
