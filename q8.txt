@@ -1,0 +1,1 @@
+echo "gh pr merge 2 --merge"
